@@ -9,15 +9,7 @@ ENV/
 # ----------------------------
 # Local data (Excel, media, mappings)
 # ----------------------------
-data/
-*.csv
-*.mp4
-*.mov
-*.m4v
-*.jpg
-*.jpeg
-*.png
-*.webp
+
 
 # ----------------------------
 # PDFs / exports
