@@ -10,7 +10,6 @@ ENV/
 # Local data (Excel, media, mappings)
 # ----------------------------
 data/
-*.xlsx
 *.csv
 *.mp4
 *.mov
